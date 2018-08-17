@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="8" pc="268435486" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="9" pc="268435496" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="12" pc="268435510" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="13" pc="268435514" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="14" pc="268435514" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="15" pc="268435514" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="16" pc="268435514" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="18" pc="268435540" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="19" pc="268435553" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="20" pc="268435579" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="21" pc="268435598" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="22" pc="268435605" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="24" pc="268435624" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="26" pc="268435689" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="27" pc="268435699" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="28" pc="268435718" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateData.mc" lineNum="30" pc="268435728" symbol="rD_add"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="7" pc="268435744" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="8" pc="268435748" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="12" pc="268435771" symbol="onStart"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="16" pc="268435776" symbol="onStop"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="20" pc="268435781" symbol="getInitialView"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="22" pc="268435785" symbol="getInitialView"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcApp.mc" lineNum="23" pc="268435815" symbol="getInitialView"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="10" pc="268435877" symbol="getStatus"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="11" pc="268435881" symbol="getStatus"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="12" pc="268435913" symbol="getStatus"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="15" pc="268435923" symbol="resetTimer"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="16" pc="268435927" symbol="resetTimer"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="17" pc="268435936" symbol="resetTimer"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="20" pc="268435947" symbol="updateRate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="21" pc="268435951" symbol="updateRate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="23" pc="268435991" symbol="updateRate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="24" pc="268436008" symbol="updateRate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="26" pc="268436017" symbol="updateRate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="31" pc="268436027" symbol="startTimer"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="33" pc="268436031" symbol="startTimer"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateTimer.mc" lineNum="34" pc="268436076" symbol="startTimer"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="8" pc="268436088" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="10" pc="268436092" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="15" pc="268436111" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="16" pc="268436115" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="22" pc="268436153" symbol="onShow"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="26" pc="268436158" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="29" pc="268436162" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="38" pc="268436183" symbol="onHide"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="42" pc="268436188" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="43" pc="268436192" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcView.mc" lineNum="44" pc="268436216" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="13" pc="268436267" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="14" pc="268436271" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="15" pc="268436284" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="16" pc="268436302" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="20" pc="268436333" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="21" pc="268436337" symbol="onLayout"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="27" pc="268436375" symbol="onShow"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="31" pc="268436380" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="34" pc="268436384" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="35" pc="268436408" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="36" pc="268436432" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="37" pc="268436452" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="40" pc="268436472" symbol="onUpdate"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="50" pc="268436493" symbol="onHide"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="53" pc="268436498" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="54" pc="268436502" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="55" pc="268436525" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="59" pc="268436531" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="61" pc="268436549" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="62" pc="268436572" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="63" pc="268436585" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="64" pc="268436598" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="65" pc="268436616" symbol="doLapButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="69" pc="268436620" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="70" pc="268436624" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="71" pc="268436647" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="72" pc="268436665" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="73" pc="268436678" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="78" pc="268436699" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="79" pc="268436718" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="80" pc="268436737" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainView.mc" lineNum="82" pc="268436750" symbol="doSelectButton"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="9" pc="268436769" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="10" pc="268436773" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="11" pc="268436794" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="12" pc="268436812" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="15" pc="268436816" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="17" pc="268436820" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcDelegate.mc" lineNum="18" pc="268436842" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="9" pc="268436853" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="10" pc="268436857" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="13" pc="268436878" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="14" pc="268436896" symbol="onMenu"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="17" pc="268436900" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="18" pc="268436904" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="19" pc="268436925" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="20" pc="268436943" symbol="onSelect"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="24" pc="268436947" symbol="onBack"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="25" pc="268436951" symbol="onBack"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="32" pc="268436970" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="34" pc="268436974" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="35" pc="268436996" symbol="initialize"/>
+        <entry filename="/home/jacko/Projects/rateCalc/./source/rateCalcMainViewDelegate.mc" lineNum="36" pc="268437006" symbol="initialize"/>
+        <entry filename="Rez" lineNum="17" pc="268437028" symbol="initialize"/>
+        <entry filename="Rez" lineNum="18" pc="268437032" symbol="initialize"/>
+        <entry filename="Rez" lineNum="21" pc="268437057" symbol="draw"/>
+        <entry filename="Rez" lineNum="22" pc="268437061" symbol="draw"/>
+        <entry filename="Rez" lineNum="23" pc="268437068" symbol="draw"/>
+        <entry filename="Rez" lineNum="24" pc="268437075" symbol="draw"/>
+        <entry filename="Rez" lineNum="25" pc="268437088" symbol="draw"/>
+        <entry filename="Rez" lineNum="26" pc="268437101" symbol="draw"/>
+        <entry filename="Rez" lineNum="29" pc="268437124" symbol="drawComplex"/>
+        <entry filename="Rez" lineNum="31" pc="268437128" symbol="drawComplex"/>
+        <entry filename="Rez" lineNum="32" pc="268437164" symbol="drawComplex"/>
+        <entry filename="Rez" lineNum="45" pc="268437219" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="49" pc="268437231" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="50" pc="268437267" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="51" pc="268437294" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="53" pc="268437310" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="54" pc="268437466" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="55" pc="268437491" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="56" pc="268437543" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="57" pc="268437589" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="58" pc="268437717" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="59" pc="268437742" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="62" pc="268437794" symbol="MainLayout"/>
+        <entry filename="Rez" lineNum="71" pc="268437832" symbol="StartScreen"/>
+        <entry filename="Rez" lineNum="75" pc="268437844" symbol="StartScreen"/>
+        <entry filename="Rez" lineNum="76" pc="268437975" symbol="StartScreen"/>
+        <entry filename="Rez" lineNum="77" pc="268438027" symbol="StartScreen"/>
+        <entry filename="Rez" lineNum="80" pc="268438079" symbol="StartScreen"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="18" symbol="&lt;globals_rateData_&lt;&gt;n&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="31" symbol="tmainView"/>
+        <entry field="true" id="40" symbol="initial_timer"/>
+        <entry id="28" method="true" symbol="MainLayout"/>
+        <entry field="true" id="32" symbol="mainView"/>
+        <entry id="38" method="true" symbol="doLapButton"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="27" method="true" symbol="drawComplex"/>
+        <entry id="11" object="true" symbol="rateTimer"/>
+        <entry id="20" method="true" symbol="rD_add"/>
+        <entry field="true" id="41" symbol="timer"/>
+        <entry id="10" object="true" symbol="rateCalcApp"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="30" symbol="AppName"/>
+        <entry field="true" id="17" symbol="&lt;globals_rateData_&lt;&gt;mean&gt;"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="29" method="true" symbol="StartScreen"/>
+        <entry id="21" method="true" symbol="doSelectButton"/>
+        <entry field="true" id="43" symbol="updater"/>
+        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="47" method="true" symbol="startTimer"/>
+        <entry id="9" object="true" symbol="rateData"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="45" method="true" symbol="resetTimer"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="33" symbol="myShapes"/>
+        <entry id="46" method="true" symbol="updateRate"/>
+        <entry field="true" id="34" symbol="counter"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="39" symbol="status"/>
+        <entry id="15" object="true" symbol="rateCalcMainViewDelegate"/>
+        <entry id="13" object="true" symbol="rateCalcMainView"/>
+        <entry id="26" object="true" symbol="rectangle"/>
+        <entry id="12" object="true" symbol="rateCalcView"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry field="true" id="24" symbol="id_start"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="14" object="true" symbol="rateCalcDelegate"/>
+        <entry field="true" id="42" symbol="rD"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389850" symbol="count"/>
+        <entry field="true" id="8389346" symbol="text"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="22" module="true" symbol="Menus"/>
+        <entry id="44" method="true" symbol="getStatus"/>
+        <entry field="true" id="16" symbol="tView"/>
+        <entry field="true" id="35" symbol="info_text"/>
+        <entry field="true" id="36" symbol="rate_text"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="19" symbol="&lt;globals_rateData_&lt;&gt;last_t&gt;"/>
+        <entry field="true" id="37" symbol="t"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435510" name="t" stackId="1" startPc="268435456"/>
+        <entry endPc="268435743" name="relative_t" stackId="4" startPc="268435514"/>
+        <entry endPc="268435743" name="newmean" stackId="3" startPc="268435514"/>
+        <entry endPc="268435743" name="sum" stackId="2" startPc="268435514"/>
+        <entry endPc="268435744" name="t" stackId="1" startPc="268435510"/>
+        <entry endPc="268435776" name="state" stackId="1" startPc="268435771"/>
+        <entry endPc="268435781" name="state" stackId="1" startPc="268435776"/>
+        <entry endPc="268436153" name="dc" stackId="1" startPc="268436111"/>
+        <entry endPc="268436183" name="dc" stackId="1" startPc="268436158"/>
+        <entry endPc="268436266" name="newView" stackId="1" startPc="268436192"/>
+        <entry endPc="268436375" name="dc" stackId="1" startPc="268436333"/>
+        <entry endPc="268436492" name="info_field" stackId="3" startPc="268436384"/>
+        <entry endPc="268436492" name="count_field" stackId="2" startPc="268436384"/>
+        <entry endPc="268436493" name="dc" stackId="1" startPc="268436380"/>
+        <entry endPc="268436768" name="return_text" stackId="1" startPc="268436699"/>
+        <entry endPc="268436853" name="v" stackId="1" startPc="268436816"/>
+        <entry endPc="268437028" name="v" stackId="1" startPc="268436970"/>
+        <entry endPc="268437123" name="pWidth" stackId="4" startPc="268437061"/>
+        <entry endPc="268437123" name="pY" stackId="3" startPc="268437061"/>
+        <entry endPc="268437123" name="pX" stackId="2" startPc="268437061"/>
+        <entry endPc="268437123" name="pHeight" stackId="5" startPc="268437061"/>
+        <entry endPc="268437124" name="dc" stackId="1" startPc="268437057"/>
+        <entry endPc="268437219" name="pWidth" stackId="4" startPc="268437124"/>
+        <entry endPc="268437219" name="dc" stackId="1" startPc="268437124"/>
+        <entry endPc="268437219" name="pY" stackId="3" startPc="268437124"/>
+        <entry endPc="268437219" name="pX" stackId="2" startPc="268437124"/>
+        <entry endPc="268437219" name="pHeight" stackId="5" startPc="268437124"/>
+        <entry endPc="268437831" name="rez_cmp_local_custom_drawable_rectangle" stackId="2" startPc="268437231"/>
+        <entry endPc="268437831" name="rez_cmp_local_bitmap_rate" stackId="5" startPc="268437231"/>
+        <entry endPc="268437831" name="rez_cmp_local_bitmap_rate_fontHeight" stackId="6" startPc="268437231"/>
+        <entry endPc="268437831" name="rez_cmp_local_bitmap_text" stackId="3" startPc="268437231"/>
+        <entry endPc="268437831" name="rez_cmp_local_bitmap_text_fontHeight" stackId="4" startPc="268437231"/>
+        <entry endPc="268437832" name="dc" stackId="1" startPc="268437219"/>
+        <entry endPc="268438096" name="rez_cmp_local_bitmap_id_start" stackId="2" startPc="268437844"/>
+        <entry endPc="268438097" name="dc" stackId="1" startPc="268437832"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="rateData">
+            <param id="t"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="rD_add" parent="rateData">
+            <param id="t"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rateCalcApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="rateCalcApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="rateCalcApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="rateCalcApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getStatus" parent="rateTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="resetTimer" parent="rateTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateRate" parent="rateTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="startTimer" parent="rateTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rateCalcView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="rateCalcView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="rateCalcView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="rateCalcView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="rateCalcView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="doSelectButton" parent="rateCalcView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rateCalcMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="rateCalcMainView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="rateCalcMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="rateCalcMainView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="rateCalcMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="doLapButton" parent="rateCalcMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="doSelectButton" parent="rateCalcMainView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="rateCalcDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rateCalcDelegate">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="rateCalcMainViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="rateCalcMainViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="rateCalcMainViewDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rateCalcMainViewDelegate">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="rectangle">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="rectangle">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawComplex" parent="rectangle">
+            <param id="dc"/>
+            <param id="pX"/>
+            <param id="pY"/>
+            <param id="pWidth"/>
+            <param id="pHeight"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="StartScreen" parent="Layouts">
+            <param id="dc"/>
+            <documentation>
+                <![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]>
+            </documentation>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="254" parentId="globals" symbolId="rateCalcApp" type="class"/>
+        <dataEntry offset="333" parentId="globals" symbolId="rateData" type="class"/>
+        <dataEntry offset="412" parentId="globals" symbolId="rateCalcView" type="class"/>
+        <dataEntry offset="499" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="578" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="633" parentId="Drawables" symbolId="rectangle" type="class"/>
+        <dataEntry offset="696" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="727" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="758" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="789" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="836" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="875" parentId="globals" symbolId="rateCalcMainViewDelegate" type="class"/>
+        <dataEntry offset="954" parentId="globals" symbolId="rateCalcDelegate" type="class"/>
+        <dataEntry offset="1017" parentId="globals" symbolId="rateCalcMainView" type="class"/>
+        <dataEntry offset="1168" parentId="globals" symbolId="rateTimer" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>
