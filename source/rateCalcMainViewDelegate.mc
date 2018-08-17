@@ -6,14 +6,7 @@ class rateCalcMainViewDelegate extends Ui.BehaviorDelegate {
 	var tmainView;
 
     // Detect Menu behavior
-    function onMenu() {
-                    System.println("MVD menu...");
-    
-        //do something
-        tmainView.doStartButton();
-        return true;
-        
-    }
+
     function onSelect(){
                         System.println("MVD select...");
                         tmainView.doSelectButton();
